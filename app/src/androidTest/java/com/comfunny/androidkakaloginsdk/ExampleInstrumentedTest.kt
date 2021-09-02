@@ -1,4 +1,4 @@
-package com.comfunny.androidloginsdk
+package com.comfunny.androidkakaloginsdk
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

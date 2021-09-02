@@ -1,4 +1,4 @@
-package com.comfunny.androidloginsdk
+package com.comfunny.androidkakaloginsdk
 
 import org.junit.Test
 
